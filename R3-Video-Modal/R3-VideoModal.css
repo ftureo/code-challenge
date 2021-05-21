@@ -57,6 +57,14 @@ h2 {
 }
 .playbtn {
     width: 8vw;
+    height: 8vw;
+    background-image: url('./assets/playButton.png');
+    background-size: contain;
+    transition: 450ms ease;
+}
+.playbtn:hover {
+    background-image: url('./assets/playButtonInv.png');
+    transition: 150ms ease;
 }
 .containerDescription {
     display: flex;
