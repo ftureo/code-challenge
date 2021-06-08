@@ -97,14 +97,15 @@ async function f() {
 f()
 
 
-var numero = prompt('Ingrese un número')
-    if(numero > 1000){
-        alert('Numero mayor o igual a 1000')
-    }
+// var numero = prompt('Ingrese un número')
+//     if(numero > 1000){
+//         alert('Numero mayor o igual a 1000')
+//     }
     
-var saludo = prompt('Ingrese Hola')
-    if(saludo == 'Hola') {
-        alert(saludo)
-    } else {
-        alert('algo falló')
-    }
+// var saludo = prompt('Ingrese Hola')
+//     if(saludo == 'Hola') {
+//         alert(saludo)
+//     } else {
+//         alert('algo falló')
+//     }
+
